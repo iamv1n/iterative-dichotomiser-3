@@ -27,7 +27,8 @@ Where,
 
 - H(S) - Entropy of set S.
 - T - The subsets created from splitting set S by attribute A such that
-    ![Alt text](./assets/u_t_s.png)
+
+     ![Alt text](./assets/u_t_s.png)
 - p(t) - The proportion of the number of elements in t to the number of elements in set S.
 - H(t) - Entropy of subset t.
 
